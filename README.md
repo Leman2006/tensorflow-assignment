@@ -24,11 +24,6 @@ This project demonstrates how to use TensorFlow for dataset handling and buildin
 4. Train the model
 5. Evaluate performance
 
-## 📈 Results
-
-* Model accuracy and loss are visualized
-* Performance metrics are analyzed
-
 ## 👤 Author
 
 * Laman Osmanli
